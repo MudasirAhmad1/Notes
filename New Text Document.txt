@@ -11,3 +11,6 @@ git push -u origin main
 git remote add origin https://github.com/MudasirAhmad1/Notes.git
 git branch -M main
 git push -u origin main
+
+// pull from git hub 
+git pull origin main
